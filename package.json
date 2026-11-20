@@ -23,11 +23,13 @@
   ],
   "exports": {
     ".": "./dist/index.mjs",
-    "./core": "./dist/core/index.mjs",
     "./package.json": "./package.json"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/theabmmohi/axsuz.git"
+  },
+  "dependencies": {
+    "kysely": "^0.29.9"
   }
 }
