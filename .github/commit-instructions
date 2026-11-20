@@ -1,0 +1,3 @@
+- Use Conventional Commits: `type(scope): subject`
+- Types: feat, fix, refactor, docs, test, chore
+- Subject in imperative mood, lowercase, max 72 chars

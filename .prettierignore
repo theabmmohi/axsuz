@@ -1,0 +1,6 @@
+.github/*
+.vscode/*
+!workflows
+
+node_modules
+dist
