@@ -4,6 +4,7 @@
   "license": "MIT",
   "description": "",
   "keywords": [],
+  "type": "module",
   "scripts": {
     "build": "tsdown",
     "typecheck": "tsc --noEmit",
